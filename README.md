@@ -48,7 +48,7 @@ Link para o simulador: https://www.tinkercad.com/things/l8ISgp4nTrU-gs-edge-1esp
 
 ### Video Explicativo do Projeto
 
-[![Checkpoint: EDGE COMPUTING & COMPUTER SYSTEMS](https://i9.ytimg.com/vi_webp/HoGcQbJOu8g/mq2.webp?sqp=CKDUqasG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDAgVChyMA8=&rs=AOn4CLCWJOO-3CaFqP__FOvp67ehgT1Uyg)](https://youtu.be/HoGcQbJOu8g "GS - Edge 1ESPS")
+[![GS: EDGE COMPUTING & COMPUTER SYSTEMS](https://i9.ytimg.com/vi_webp/HoGcQbJOu8g/mq2.webp?sqp=CKDUqasG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDAgVChyMA8=&rs=AOn4CLCWJOO-3CaFqP__FOvp67ehgT1Uyg)](https://youtu.be/HoGcQbJOu8g "GS - Edge 1ESPS")
 
 ## Desenvolvedores
 
